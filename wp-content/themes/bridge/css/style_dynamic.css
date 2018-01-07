@@ -1,10 +1,10 @@
     /* Webkit */
     ::selection {
-    background: #f53644;
+    background: #cccccc;
     }
     /* Gecko/Mozilla */
     ::-moz-selection {
-    background: #f53644;
+    background: #cccccc;
     }
 
 
@@ -95,7 +95,7 @@
     .qode-owl-slider-style .owl-nav .owl-prev:hover .qode-next-icon,
     .qode-owl-slider-style .owl-nav .owl-prev:hover .qode-prev-icon
 	{
-        color: #f53644 !important;
+        color: #f09844 !important;
     }
 	h2 a:hover,
 	h3 a:hover,
@@ -139,7 +139,7 @@
 	.qode-showcase-icon .qode-icon-holder.qode-icon-circle .qode-icon-element
 	{
 
-		color: #f53644;
+		color: #f09844;
 	}
 
     .box_image_with_border:hover,
@@ -167,12 +167,12 @@
         input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
     .portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
     .tabs_box_navigation.sf-timetable-menu .tabs_box_navigation_selected{
-        border-color: #f53644    }
+        border-color: #f09844    }
 
     .tt_tabs .tt_tabs_navigation .ui-tabs-active a,
     .tt_tabs .tt_tabs_navigation li a:hover,
     .tt_tabs .tt_tabs_navigation li a{
-        border-color: #f53644 !important;
+        border-color: #f09844 !important;
 	}
 
     .q_icon_list i,
@@ -246,24 +246,24 @@
     .tabs_box_navigation.sf-timetable-menu li ul li.selected a:hover,
     #qode-multi-device-showcase.qode-mds-appear-effect #qode-mds-spinner .qode-mds-pulse    
 	{
-        background-color: #f53644;
+        background-color: #f09844;
     }
 
 
 	.qode-showcase-item-holder.qode-showcase-active .qode-icon-holder.qode-icon-circle{
-	background-color: #f53644 !important;
+	background-color: #f09844 !important;
 	}
 
     .q_circles_holder .q_circle_inner2:hover,
     body:not(.search-results) .blog_holder article.format-link .post_text:hover .post_text_inner,
 	body:not(.search-results) .blog_holder article.format-quote .post_text:hover .post_text_inner {
-        background-color: #f53644 !important;
-        border-color: #f53644 !important;
+        background-color: #f09844 !important;
+        border-color: #f09844 !important;
     }
 
     .qode-lazy-preloader svg circle,
     #qode-multi-device-showcase.qode-mds-appear-effect #qode-mds-spinner svg circle {
-        stroke: #f53644    }
+        stroke: #f09844    }
 
 
 

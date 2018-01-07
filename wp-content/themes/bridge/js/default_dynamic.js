@@ -41,7 +41,7 @@ finished_text = 'No more posts';
 
 var piechartcolor;
 piechartcolor	= "#1abc9c";
-	piechartcolor = "#f53644";
+	piechartcolor = "#f09844";
 
 var geocoder;
 var map;

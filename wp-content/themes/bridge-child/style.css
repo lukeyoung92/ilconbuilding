@@ -1,0 +1,28 @@
+/*
+Theme Name: Bridge Child
+Theme URI: http://demo.qodeinteractive.com/bridge/
+Description: A child theme of Bridge Theme
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 1.0.0
+Template: bridge
+*/
+@import url("../bridge/style.css");
+
+/*header.sticky > div > div > div > div > nav > ul > */
+.sticky nav > ul > li.menu-item-object-page > a > span {
+	color: #818181 !important;
+}
+
+.sticky nav > ul > li.menu-item-object-page > a > span:hover {
+    color: #fff !important;
+    -webkit-transition: color .2s ease-in-out;
+}
+
+span.social_share_title {
+	display: none;
+}
+
+i.fa-footer {
+	margin-right: 5px;
+}
